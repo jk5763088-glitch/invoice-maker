@@ -1,0 +1,6 @@
+{
+  "name": "Invoice Maker",
+  "description": "Professional offline invoice maker and A4 PDF generator for small shops, freelancers, and service providers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
